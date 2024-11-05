@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farahn0104/Text-Analyzer/static/css/main.69e0e2a3.css",
+    "main.js": "/farahn0104/Text-Analyzer/static/js/main.b85b9f05.js",
+    "static/js/453.ed3810f9.chunk.js": "/farahn0104/Text-Analyzer/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/farahn0104/Text-Analyzer/index.html",
+    "main.69e0e2a3.css.map": "/farahn0104/Text-Analyzer/static/css/main.69e0e2a3.css.map",
+    "main.b85b9f05.js.map": "/farahn0104/Text-Analyzer/static/js/main.b85b9f05.js.map",
+    "453.ed3810f9.chunk.js.map": "/farahn0104/Text-Analyzer/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e0e2a3.css",
+    "static/js/main.b85b9f05.js"
+  ]
+}
